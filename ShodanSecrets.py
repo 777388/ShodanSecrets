@@ -11,7 +11,7 @@ from fake_useragent import UserAgent
 import socket
 import sys
 print("python3 shodansecrets.py shodansearch")
-SHODAN_API_KEY = "Bh6f5Oc7geYSPx9JQHnUGKsK06NZc5nH"
+SHODAN_API_KEY = "[shodan key]"
 sensitive_data = ['password',
                   'secret',
                   'token',
